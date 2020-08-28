@@ -1,4 +1,4 @@
-# Dockstore config version, not pipeline version
+# Dockstore config version, not pipeline version edit
 version: 1.2
 workflows:
   - subclass: nfl
